@@ -5,9 +5,10 @@ hi, i am Majid Abdelilah i've been doing game dev since i was 13 i am now 20;
 and here are my games
 
 itch.io accounts:
+https://dijam.itch.io/
+
 https://wolf-999.itch.io/
 
-https://dijam.itch.io/
 
 
 thees are 5 games that i made while learning how to use c++ with godot
